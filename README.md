@@ -1,2 +1,2 @@
-# kamykon-kanban
-Recommended workflow for development using KANBAN methodology
+# kamykon-scrumban
+Recommended workflow for development using SCRUM+KANBAN methodology
